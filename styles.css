@@ -191,14 +191,7 @@ main{
         text-align: center;
         width: 17vw;
         padding: 1rem 0;
-        text-decoration: none;
-        color: var(--light-gray);
-        font-weight: 400;
-        font-size: 1rem;
-        background-color: var(--bright-yellow);
-        border: none;
-        border-radius: 0.5rem;
-        cursor: pointer;
+        color: white;
     }
 
     .second-section{
